@@ -1,0 +1,12 @@
+C:\Users\ammar\source\repos\PackageDrawing\PackageDrawing\obj\Debug\net8.0\PackageDrawing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ammar\source\repos\PackageDrawing\PackageDrawing\obj\Debug\net8.0\PackageDrawing.AssemblyInfoInputs.cache
+C:\Users\ammar\source\repos\PackageDrawing\PackageDrawing\obj\Debug\net8.0\PackageDrawing.AssemblyInfo.cs
+C:\Users\ammar\source\repos\PackageDrawing\PackageDrawing\obj\Debug\net8.0\PackageDrawing.csproj.CoreCompileInputs.cache
+C:\Users\ammar\source\repos\PackageDrawing\PackageDrawing\obj\Debug\net8.0\PackageDrawing.csproj.AssemblyReference.cache
+C:\Users\ammar\source\repos\PackageDrawing\PackageDrawing\bin\Debug\net8.0\PackageDrawing.deps.json
+C:\Users\ammar\source\repos\PackageDrawing\PackageDrawing\bin\Debug\net8.0\PackageDrawing.dll
+C:\Users\ammar\source\repos\PackageDrawing\PackageDrawing\bin\Debug\net8.0\PackageDrawing.pdb
+C:\Users\ammar\source\repos\PackageDrawing\PackageDrawing\obj\Debug\net8.0\PackageDrawing.dll
+C:\Users\ammar\source\repos\PackageDrawing\PackageDrawing\obj\Debug\net8.0\refint\PackageDrawing.dll
+C:\Users\ammar\source\repos\PackageDrawing\PackageDrawing\obj\Debug\net8.0\PackageDrawing.pdb
+C:\Users\ammar\source\repos\PackageDrawing\PackageDrawing\obj\Debug\net8.0\ref\PackageDrawing.dll

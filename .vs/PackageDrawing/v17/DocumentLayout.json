@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ammar\\source\\repos\\PackageDrawing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D629864-5527-43B5-9B8F-5B1554FCBF8F}|PackageDrawingTest\\PackageDrawingTest.csproj|c:\\users\\ammar\\source\\repos\\packagedrawing\\packagedrawingtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D629864-5527-43B5-9B8F-5B1554FCBF8F}|PackageDrawingTest\\PackageDrawingTest.csproj|solutionrelative:packagedrawingtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D629864-5527-43B5-9B8F-5B1554FCBF8F}|PackageDrawingTest\\PackageDrawingTest.csproj|c:\\users\\ammar\\source\\repos\\packagedrawing\\packagedrawingtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D629864-5527-43B5-9B8F-5B1554FCBF8F}|PackageDrawingTest\\PackageDrawingTest.csproj|solutionrelative:packagedrawingtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D629864-5527-43B5-9B8F-5B1554FCBF8F}|PackageDrawingTest\\PackageDrawingTest.csproj|c:\\users\\ammar\\source\\repos\\packagedrawing\\packagedrawingtest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D629864-5527-43B5-9B8F-5B1554FCBF8F}|PackageDrawingTest\\PackageDrawingTest.csproj|solutionrelative:packagedrawingtest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8630740E-CD9B-4763-A222-EF52507DC120}|PackageDrawing\\PackageDrawing.csproj|c:\\users\\ammar\\source\\repos\\packagedrawing\\packagedrawing\\algorithms\\linedda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8630740E-CD9B-4763-A222-EF52507DC120}|PackageDrawing\\PackageDrawing.csproj|solutionrelative:packagedrawing\\algorithms\\linedda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8630740E-CD9B-4763-A222-EF52507DC120}|PackageDrawing\\PackageDrawing.csproj|c:\\users\\ammar\\source\\repos\\packagedrawing\\packagedrawing\\core\\drawingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8630740E-CD9B-4763-A222-EF52507DC120}|PackageDrawing\\PackageDrawing.csproj|solutionrelative:packagedrawing\\core\\drawingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8630740E-CD9B-4763-A222-EF52507DC120}|PackageDrawing\\PackageDrawing.csproj|c:\\users\\ammar\\source\\repos\\packagedrawing\\packagedrawing\\algorithms\\transformations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8630740E-CD9B-4763-A222-EF52507DC120}|PackageDrawing\\PackageDrawing.csproj|solutionrelative:packagedrawing\\algorithms\\transformations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8630740E-CD9B-4763-A222-EF52507DC120}|PackageDrawing\\PackageDrawing.csproj|c:\\users\\ammar\\source\\repos\\packagedrawing\\packagedrawing\\models\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8630740E-CD9B-4763-A222-EF52507DC120}|PackageDrawing\\PackageDrawing.csproj|solutionrelative:packagedrawing\\models\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D629864-5527-43B5-9B8F-5B1554FCBF8F}|PackageDrawingTest\\PackageDrawingTest.csproj|c:\\users\\ammar\\source\\repos\\packagedrawing\\packagedrawingtest\\packagedrawingtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D629864-5527-43B5-9B8F-5B1554FCBF8F}|PackageDrawingTest\\PackageDrawingTest.csproj|solutionrelative:packagedrawingtest\\packagedrawingtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8630740E-CD9B-4763-A222-EF52507DC120}|PackageDrawing\\PackageDrawing.csproj|c:\\users\\ammar\\source\\repos\\packagedrawing\\packagedrawing\\packagedrawing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8630740E-CD9B-4763-A222-EF52507DC120}|PackageDrawing\\PackageDrawing.csproj|solutionrelative:packagedrawing\\packagedrawing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LineDDA.cs",
+              "DocumentMoniker": "C:\\Users\\ammar\\source\\repos\\PackageDrawing\\PackageDrawing\\Algorithms\\LineDDA.cs",
+              "RelativeDocumentMoniker": "PackageDrawing\\Algorithms\\LineDDA.cs",
+              "ToolTip": "C:\\Users\\ammar\\source\\repos\\PackageDrawing\\PackageDrawing\\Algorithms\\LineDDA.cs",
+              "RelativeToolTip": "PackageDrawing\\Algorithms\\LineDDA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:00:10.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ammar\\source\\repos\\PackageDrawing\\PackageDrawingTest\\Form1.cs",
+              "RelativeDocumentMoniker": "PackageDrawingTest\\Form1.cs",
+              "ToolTip": "C:\\Users\\ammar\\source\\repos\\PackageDrawing\\PackageDrawingTest\\Form1.cs [Design]",
+              "RelativeToolTip": "PackageDrawingTest\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:59:12.848Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ammar\\source\\repos\\PackageDrawing\\PackageDrawingTest\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PackageDrawingTest\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ammar\\source\\repos\\PackageDrawing\\PackageDrawingTest\\Form1.Designer.cs",
+              "RelativeToolTip": "PackageDrawingTest\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:59:10.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DrawingContext.cs",
+              "DocumentMoniker": "C:\\Users\\ammar\\source\\repos\\PackageDrawing\\PackageDrawing\\Core\\DrawingContext.cs",
+              "RelativeDocumentMoniker": "PackageDrawing\\Core\\DrawingContext.cs",
+              "ToolTip": "C:\\Users\\ammar\\source\\repos\\PackageDrawing\\PackageDrawing\\Core\\DrawingContext.cs",
+              "RelativeToolTip": "PackageDrawing\\Core\\DrawingContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:59:07.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transformations.cs",
+              "DocumentMoniker": "C:\\Users\\ammar\\source\\repos\\PackageDrawing\\PackageDrawing\\Algorithms\\Transformations.cs",
+              "RelativeDocumentMoniker": "PackageDrawing\\Algorithms\\Transformations.cs",
+              "ToolTip": "C:\\Users\\ammar\\source\\repos\\PackageDrawing\\PackageDrawing\\Algorithms\\Transformations.cs",
+              "RelativeToolTip": "PackageDrawing\\Algorithms\\Transformations.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:50:28.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "point.cs",
+              "DocumentMoniker": "C:\\Users\\ammar\\source\\repos\\PackageDrawing\\PackageDrawing\\Models\\point.cs",
+              "RelativeDocumentMoniker": "PackageDrawing\\Models\\point.cs",
+              "ToolTip": "C:\\Users\\ammar\\source\\repos\\PackageDrawing\\PackageDrawing\\Models\\point.cs",
+              "RelativeToolTip": "PackageDrawing\\Models\\point.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:11:57.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ammar\\source\\repos\\PackageDrawing\\PackageDrawingTest\\Form1.cs",
+              "RelativeDocumentMoniker": "PackageDrawingTest\\Form1.cs",
+              "ToolTip": "C:\\Users\\ammar\\source\\repos\\PackageDrawing\\PackageDrawingTest\\Form1.cs",
+              "RelativeToolTip": "PackageDrawingTest\\Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:23:00.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PackageDrawingTest.csproj",
+              "DocumentMoniker": "C:\\Users\\ammar\\source\\repos\\PackageDrawing\\PackageDrawingTest\\PackageDrawingTest.csproj",
+              "RelativeDocumentMoniker": "PackageDrawingTest\\PackageDrawingTest.csproj",
+              "ToolTip": "C:\\Users\\ammar\\source\\repos\\PackageDrawing\\PackageDrawingTest\\PackageDrawingTest.csproj",
+              "RelativeToolTip": "PackageDrawingTest\\PackageDrawingTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-10T17:00:40.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PackageDrawing.csproj",
+              "DocumentMoniker": "C:\\Users\\ammar\\source\\repos\\PackageDrawing\\PackageDrawing\\PackageDrawing.csproj",
+              "RelativeDocumentMoniker": "PackageDrawing\\PackageDrawing.csproj",
+              "ToolTip": "C:\\Users\\ammar\\source\\repos\\PackageDrawing\\PackageDrawing\\PackageDrawing.csproj",
+              "RelativeToolTip": "PackageDrawing\\PackageDrawing.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-10T16:05:07.068Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

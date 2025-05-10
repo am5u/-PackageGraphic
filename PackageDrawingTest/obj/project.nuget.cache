@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JK7tpRsT1a0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ammar\\source\\repos\\PackageDrawing\\PackageDrawingTest\\PackageDrawingTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ammar\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.4\\microsoft.win32.systemevents.9.0.4.nupkg.sha512",
+    "C:\\Users\\ammar\\.nuget\\packages\\system.drawing.common\\9.0.4\\system.drawing.common.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
